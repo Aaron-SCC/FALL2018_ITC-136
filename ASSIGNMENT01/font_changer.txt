@@ -1,0 +1,6 @@
+  415  xterm -fa 'Monospace" -fs 18 
+  416  xterm -fa 'Monospace' -fs 18 
+  417  xterm -fa 'Monospace' -fs 24 & 
+  418  xterm -fa 'Monospace' -fs 24 -bg darkblue -fg yellow & 
+
+
