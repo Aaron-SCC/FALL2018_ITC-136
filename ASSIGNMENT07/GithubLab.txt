@@ -4,21 +4,34 @@ LINK HERE
 LINK HERE
 
    * What is github?
+GitHub Inc. is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
 
 
    * How is git different than github?
+Git is the distributed version control system. Git is responsible for keeping track of changes to content (usually source code files), and it provides mechanisms for sharing that content with others. 
 
+GitHub is a company that provides Git repository hosting.
 
+So, which came first?  The chicken or the egg?  Git or GitHub?  Obviously Git must exist prior to github website.  However, github makes using git easy with internet cloud computing (probably why Microsoft bought them :)  ).
+
+https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is 
 
    *  What is a branch?
-
+A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. As you initially make commits, you’re given a master branch that points to the last commit you made. Every time you commit, it moves forward automatically.  
+[best to use visual diagrams and charts seen on following URL website:  
+https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is ]
 
 
    * What does merging a branch do?
+Git merge will combine multiple sequences of commits into one unified history. In the most frequent use cases, git merge is used to combine two branches. The following examples in this document will focus on this branch merging pattern. In these scenarios, git merge takes two commit pointers, usually the branch tips, and will find a common base commit between them. Once Git finds a common base commit it will create a new "merge commit" that combines the changes of each queued merge commit sequence.
+[best to use visual diagrams and charts seen on following URL website:  
+https://www.atlassian.com/git/tutorials/using-branches/git-merge ]
 
 
 
    * What is a pull request?
-
+Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
+[best to use visual diagrams and charts seen on following URL website:  
+https://yangsu.github.io/pull-request-tutorial/  ]
 
 
