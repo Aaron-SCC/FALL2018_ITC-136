@@ -1,0 +1,24 @@
+Submit a link to your "hello world" repository along with answers to the following questions:
+LINK HERE
+LINK HERE
+LINK HERE
+
+   * What is github?
+
+
+   * How is git different than github?
+
+
+
+   *  What is a branch?
+
+
+
+   * What does merging a branch do?
+
+
+
+   * What is a pull request?
+
+
+
