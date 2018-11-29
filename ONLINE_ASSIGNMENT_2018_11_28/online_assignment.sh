@@ -17,5 +17,13 @@ echo
 echo 
 
 
+# edit below from Fikir
+echo 
+echo 
+echo "Salam from Fikir."
+echo 
+echo 
+
+
 
 
